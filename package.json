@@ -1,0 +1,29 @@
+{
+  "name": "ajs-test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnaAlieva/ajs-test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnaAlieva/ajs-test2/issues"
+  },
+  "homepage": "https://github.com/InnaAlieva/ajs-test2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.4",
+    "@babel/preset-env": "^7.28.3",
+    "jest": "^30.1.3"
+  },
+  "dependencies": {
+    "core-js": "^3.45.1",
+    "jest-babel": "^1.0.1"
+  }
+}
